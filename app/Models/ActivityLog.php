@@ -13,6 +13,6 @@ class ActivityLog extends Model
     'user_id',
     'action',
     'table_name',
-    'table_id0987654',
+    'table_idupdatekarl',
   ];
 }
